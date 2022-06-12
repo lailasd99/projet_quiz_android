@@ -1,0 +1,106 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sagarkhurana.quizforfun"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:5:5-39:19
+12        android:allowBackup="true"
+12-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.3.1] C:\Users\LAILA\.gradle\caches\transforms-3\efc65f762e36854262b6bf897e4a31c0\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher"
+17-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:9:9-48
+18        android:supportsRtl="true"
+18-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/Theme.QuizForFun" >
+20-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:11:9-48
+21        <activity android:name="com.sagarkhurana.quizforfun.GeographyOrLiteratureQuizActivity" />
+21-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:12:9-80
+21-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:12:19-68
+22        <activity android:name="com.sagarkhurana.quizforfun.FinalResultActivity" />
+22-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:13:9-57
+22-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:13:19-54
+23        <activity android:name="com.sagarkhurana.quizforfun.MathQuizActivity" />
+23-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:14:9-54
+23-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:14:19-51
+24        <activity android:name="com.sagarkhurana.quizforfun.EditPasswordActivity" />
+24-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:15:9-58
+24-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:15:19-55
+25        <activity android:name="com.sagarkhurana.quizforfun.HistoryActivity" />
+25-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:16:9-53
+25-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:16:19-50
+26        <activity android:name="com.sagarkhurana.quizforfun.RuleActivity" />
+26-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:17:9-50
+26-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:17:19-47
+27        <activity android:name="com.sagarkhurana.quizforfun.QuizOptionActivity" />
+27-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:18:9-56
+27-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:18:19-53
+28        <activity android:name="com.sagarkhurana.quizforfun.RegisterActivity" />
+28-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:19:9-54
+28-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:19:19-51
+29        <activity android:name="com.sagarkhurana.quizforfun.MainActivityADMIN" />
+29-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:20:9-55
+29-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:20:19-52
+30        <activity android:name="com.sagarkhurana.quizforfun.Classes.CreatQuizAvtivity" />
+30-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:21:9-63
+30-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:21:19-60
+31        <activity android:name="com.sagarkhurana.quizforfun.Classes.QuizActivity" />
+31-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:22:9-58
+31-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:22:19-55
+32        <activity
+32-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:23:9-26:20
+33            android:name="com.sagarkhurana.quizforfun.LoginActivity"
+33-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:24:13-42
+34            android:theme="@style/splashScreenTheme" >
+34-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:25:13-53
+35        </activity>
+36        <activity
+36-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:27:9-30:20
+37            android:name="com.sagarkhurana.quizforfun.LoginActivityADMIN"
+37-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:28:13-47
+38            android:theme="@style/splashScreenTheme" >
+38-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:29:13-53
+39        </activity>
+40        <activity android:name="com.sagarkhurana.quizforfun.MainActivity" />
+40-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:31:9-50
+40-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:31:19-47
+41        <activity android:name="com.sagarkhurana.quizforfun.StartActivity" >
+41-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:32:9-38:20
+41-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:32:19-48
+42            <intent-filter>
+42-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:33:13-37:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:34:17-69
+43-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:34:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:36:17-77
+45-->C:\Users\LAILA\Downloads\Quiz-App-main\Quiz-App-main\app\src\main\AndroidManifest.xml:36:27-74
+46            </intent-filter>
+47        </activity>
+48
+49        <service
+49-->[androidx.room:room-runtime:2.2.5] C:\Users\LAILA\.gradle\caches\transforms-3\16eb6b6aae086829653dc5fbd16e5de7\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+50            android:name="androidx.room.MultiInstanceInvalidationService"
+50-->[androidx.room:room-runtime:2.2.5] C:\Users\LAILA\.gradle\caches\transforms-3\16eb6b6aae086829653dc5fbd16e5de7\transformed\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+51            android:directBootAware="true"
+51-->[androidx.room:room-runtime:2.2.5] C:\Users\LAILA\.gradle\caches\transforms-3\16eb6b6aae086829653dc5fbd16e5de7\transformed\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+52            android:exported="false" />
+52-->[androidx.room:room-runtime:2.2.5] C:\Users\LAILA\.gradle\caches\transforms-3\16eb6b6aae086829653dc5fbd16e5de7\transformed\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+53    </application>
+54
+55</manifest>

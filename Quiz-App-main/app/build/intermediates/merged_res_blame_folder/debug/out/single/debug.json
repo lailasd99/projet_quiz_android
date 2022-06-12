@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_profile.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\font_asset.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\font\\asset.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_noted.gif.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable\\noted.gif"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_password.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\password.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_logo.png.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_splash_image.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable\\splash_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_math_quiz.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_math_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\font_dash.otf.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\font\\dash.otf"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\font_regularoblique.otf.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\font\\regularoblique.otf"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_button.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_log_out.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable\\log_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\font_regular.otf.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\font\\regular.otf"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_final_result.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_final_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_arrow.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_save.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\ic_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_home.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_bg.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable\\home_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_correct.gif.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable\\correct.gif"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_input.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\input.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\font_sfprodisplay.ttf.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\font\\sfprodisplay.ttf"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable\\icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_selected.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable\\selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_question1.gif.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\question1.gif"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_edit.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_logout.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_repertoire.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_repertoire.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\layout_slide_rules.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\layout\\slide_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_worldwide.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable\\worldwide.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\font_bold.otf.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\font\\bold.otf"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_logout.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable\\logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_quiz.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable\\quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login_admin.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_login_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_geography_or_literature_quiz.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_geography_or_literature_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main_admin.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_main_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_keys.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable\\keys.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_history.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable\\history.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_creat_quiz.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_creat_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_unselected.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable\\unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_incorrect.gif.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable\\incorrect.gif"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_rules.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable\\rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_quiz.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\font_light.otf.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\font\\light.otf"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_arrow.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable\\arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_blackboard.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable\\blackboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_quiz_option.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_quiz_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_book.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable\\book.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\font_boldoblique.otf.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\font\\boldoblique.otf"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\layout_start_activity.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\layout\\start_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_delete.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_phone.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_rule.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_rule.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_edit_password.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_edit_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\layout_item_history.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\layout\\item_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_add.xml.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\add.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_background.jpg.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\build\\intermediates\\merged_res\\debug\\font_lightoblique.otf.flat",
+        "source": "C:\\Users\\LAILA\\Downloads\\Quiz-App-main\\Quiz-App-main\\app\\src\\main\\res\\font\\lightoblique.otf"
+    }
+]
